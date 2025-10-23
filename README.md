@@ -42,9 +42,8 @@ Here are some of the technologies I've been working with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
 </p>
-``---
 
-
+---
 ### 📈 My GitHub Stats
 
 <p align="center">
