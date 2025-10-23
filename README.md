@@ -42,7 +42,7 @@ Here are some of the technologies I've been working with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
 </p>
----
+``---
 
 
 ### 📈 My GitHub Stats
@@ -53,7 +53,7 @@ Here are some of the technologies I've been working with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkoutlis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<!---
 
 ### 📫 How to Reach Me
 
@@ -64,3 +64,4 @@ You can find me on:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" />
   </a>
 </p>
+--->
