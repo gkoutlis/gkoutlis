@@ -52,15 +52,15 @@ Here are some of the technologies I've been working with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkoutlis&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!---
+
 
 ### 📫 How to Reach Me
 
 You can find me on:
 
 <p align="left">
-  <a href="https://linkedin.com/in/[ΤΟ LINKEDIN PROFILE ΣΟΥ]" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/grigoris-koutlis/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" />
   </a>
 </p>
---->
+
