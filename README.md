@@ -60,9 +60,11 @@ Here are some of the technologies I've been working with:
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkoutlis&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <!-- Κεντρική Κάρτα Στατιστικών -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gkoutlis&show_icons=true&theme=radical&cache_buster=20251107" alt="Your GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkoutlis&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Κάρτα Κορυφαίων Γλωσσών -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkoutlis&layout=compact&theme=radical&cache_buster=20251107" alt="Top Languages" />
 </p>
 
 
