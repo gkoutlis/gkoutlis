@@ -39,6 +39,7 @@ Here are some of the technologies I've been working with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+ 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -54,6 +55,12 @@ Here are some of the technologies I've been working with:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
+   <a href="https://wordpress.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" 
+       alt="wordpress" width="40" height="40"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+
 </p>
 
 ---
