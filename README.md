@@ -24,17 +24,7 @@ I’m gradually building a portfolio with small, practical projects that cover:
 - 🧰 Tools (Git/GitHub, Linux, VS Code)
 
 
----
 
-<p align="center">
-  <!-- Profile Views (playful) -->
-  <img
-    src="https://komarev.com/ghpvc/?username=gkoutlis&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge"
-    alt="Profile views"
-  />
-  <br/>
-  <sub>✨ Thanks for stopping by! ✨</sub>
-</p>
 
 
 
@@ -88,4 +78,15 @@ I’m gradually building a portfolio with small, practical projects that cover:
   <a href="https://www.linkedin.com/in/grigoris-koutlis/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+</p>
+
+
+<p align="center">
+  <!-- Profile Views (playful) -->
+  <img
+    src="https://komarev.com/ghpvc/?username=gkoutlis&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge"
+    alt="Profile views"
+  />
+  <br/>
+  <sub>✨ Thanks for stopping by! ✨</sub>
 </p>
