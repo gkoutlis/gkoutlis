@@ -100,6 +100,11 @@ https://zachareniabella.com
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+<a href="https://www.postgresql.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+       width="40" height="40" alt="PostgreSQL Logo"/>
+</a>
+
 <a href="https://www.docker.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 </a>
