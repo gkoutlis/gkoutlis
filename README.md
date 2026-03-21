@@ -88,6 +88,11 @@ https://zachareniabella.com
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+<a href="https://fastapi.tiangolo.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" 
+       width="40" height="40" alt="FastAPI Logo"/>
+</a>
+
 <a href="https://www.php.net/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
 </a>
