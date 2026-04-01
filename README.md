@@ -20,51 +20,41 @@
 - 🗄️ Improving **SQL skills** (queries, joins, mini reports)
 - 🧠 Exploring **AI tools and LLM workflows**
 - 💻 Building practical projects to grow my development portfolio
-
+- 🐧 Developing exclusively in **Linux (Ubuntu 24.04 LTS)** environments.
 ---
 
 # ⭐ Featured Projects
 
-## 🧹 DataCleanse Pro
-
-A Python desktop application designed to clean and normalize messy CSV and Excel datasets.
-
-The project aims to automate repetitive data-cleaning tasks commonly encountered in data analysis workflows.
-
-**Features**
-
-- Duplicate detection and removal  
-- Column normalization  
-- Data formatting and cleaning  
-- Export cleaned datasets  
-
-**Tech stack**
-
-Python • CustomTkinter • File processing • Data cleaning logic  
-
-🔧 Currently preparing the project for a public GitHub release.
+## 🐍 DataCleanse Pro
+*Desktop application to automate cleaning and normalization of messy datasets.*
+- **Features:** Duplicate removal, column normalization, and multi-format export.
+- **Tech Stack:** Python, CustomTkinter, File processing logic.
+- 🔧 *Status: Internal testing / Preparing for public GitHub release.*
 
 ---
 
-## 🎨 Artist Portfolio Website – Zachareniabella
+## [📦 Inventory Management System (CRUD)](https://github.com/gkoutlis/WareHub)
+*Modern backend API for warehouse stock tracking and management.*
+- **Features:** Full CRUD operations, PostgreSQL integration, and Swagger documentation.
+- **Tech Stack:** **Python (FastAPI)**, PostgreSQL, **Docker & Docker Compose**.
+- 🎓 *Final Project: PYTHON Module @ Datalabs.*
 
-Developed and deployed a portfolio website for a visual artist to showcase paintings and artwork online.
+---
 
-The website focuses on clean presentation of artworks and easy navigation for visitors.
+## [📝 Secure Blog Engine](https://github.com/gkoutlis/DATALado_Blog)
+*A server-side application for dynamic content management.*
+- **Features:** User authentication, relational database schema, and post/comment management.
+- **Tech Stack:** **PHP**, MySQL, HTML5/CSS3.
+- 🎓 *Final Project: PHP & SQL Module @ Datalabs.*
 
-**Features**
+---
 
-- Artwork gallery  
-- Category-based portfolio  
-- Responsive layout  
-- Social media integration  
+## 🎨 Artist Portfolio – Zachareniabella
+*Professional portfolio for a visual artist to showcase artwork collections.*
+- **Features:** Responsive gallery, category-based navigation, and social integration.
+- **Tech Stack:** WordPress, CSS3, JavaScript.
+- 🌐 [View Live Site](https://zachareniabella.com)
 
-**Tech stack**
-
-WordPress • HTML • CSS • JavaScript  
-
-🌐 Live site  
-https://zachareniabella.com
 
 ---
 
