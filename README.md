@@ -23,7 +23,7 @@
 - 🐧 Developing exclusively in **Linux (Ubuntu 24.04 LTS)** environments.
 ---
 
-# ⭐ Featured Projects
+# ⭐ Projects
 
 ## 🐍 DataCleanse Pro
 *Desktop application to automate cleaning and normalization of messy datasets.*
@@ -74,6 +74,10 @@
       <td align="center"><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgresql"/></a></td>
       <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="docker"/></a></td>
       <td align="center"><a href="https://wordpress.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress"/></a></td>
+       <td align="center"><a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="java"/></a></td>
+      <td align="center"><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/></a></td>
+      <td align="center"><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp"/></a></td>
+      <td align="center"><a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET"/></a></td>
     </tr>
   </table>
 </div>
