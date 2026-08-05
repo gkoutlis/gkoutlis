@@ -7,8 +7,8 @@
 <h1 align="center">Grigoris Koutlis</h1>
 
 <p align="center">
-  <b>Junior Web Developer in Training</b><br>
-  Building practical projects with Web Technologies, Python & SQL
+  <b>Full Stack Developer in Training</b><br>
+  Building practical projects with Python/FastAPI • React • C#/.NETL
 </p>
 
 ---
