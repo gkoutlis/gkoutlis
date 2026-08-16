@@ -2,7 +2,7 @@
 
 I'm a developer in training, currently building projects and learning by doing.
 
-I enjoy working with **Python, React, C#/.NET and databases**, and I'm interested in building practical applications that solve real problems.
+I enjoy working with **Python, React, C#/.NET and databases**, and I'm interested in building practical applications.
 
 ## What I'm working on
 
