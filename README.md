@@ -15,12 +15,13 @@
 
 # 🚀 Current Focus
 
-- 📚 Learning modern **Web Development** (HTML, CSS, JavaScript, PHP)
-- 🐍 Practicing **Python** for automation and data processing
-- 🗄️ Improving **SQL skills** (queries, joins, mini reports)
+- 🎓 Studying **C# & .NET** (OOP, WinForms, MVC, Entity Framework)
+- ⚛️ Building full-stack apps with **React** (routing, hooks, REST APIs)
+- 🗄️ Working with **SQL & PostgreSQL & Entity Framework** for data persistence
+- 🌐 Developing **ASP.NET MVC** web applications
 - 🧠 Exploring **AI tools and LLM workflows**
-- 💻 Building practical projects to grow my development portfolio
-- 🐧 Developing exclusively in **Linux (Ubuntu 24.04 LTS)** environments.
+- 💻 Developing on **Linux (Ubuntu)** and **Windows** environments
+- 🐍 Using **Python** for automation and data processing
 ---
 
 # ⭐ Projects
@@ -47,6 +48,18 @@
 - **Tech Stack:** **PHP**, MySQL, HTML5/CSS3.
 - 🎓 *Final Project: PHP & SQL Module @ Datalabs.*
 
+---
+## [🎵 Events Manager](https://github.com/gkoutlis/events-manager)
+*A React SPA for managing concerts, artists, and tickets.*
+- **Features:** Public concert browsing, protected admin dashboard (artists, concerts, tickets CRUD), mock authentication with protected routes.
+- **Tech Stack:** **React 19**, React Router, Vite, MUI (Material UI), json-server.
+- 🎓 *Final Project: React Module @ Datalabs.*
+---
+## [🚗 RentACarLab](https://github.com/gkoutlis/RentACarLab)
+*A car rental management system with full CRUD operations.*
+- **Features:** Manage Categories, Cars, Clients & Rentals, search by client/car, active rentals view, foreign key constraints (RESTRICT/CASCADE).
+- **Tech Stack:** **Java 17**, PostgreSQL 15 (Docker), Swing, JDBC (no ORM — manual mapping).
+- 🎓 *Final Project: Java Module @ KDBM Datalabs.*
 ---
 
 ## 🎨 Artist Portfolio – Zachareniabella
