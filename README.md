@@ -14,6 +14,9 @@ I enjoy working with **Python, React, C#/.NET and databases**, and I'm intereste
 
 ## Projects
 
+### 🤝 [VolunteerHub](https://github.com/gkoutlis/VolunteerHub)
+Volunteer management web application built with **C#, ASP.NET Core MVC, Entity Framework Core and Identity**.
+
 ### 📦 [WareHub](https://github.com/gkoutlis/WareHub)
 Warehouse management API built with **Python, FastAPI and PostgreSQL**.
 
